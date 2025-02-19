@@ -1,0 +1,13 @@
+insert into Genre (ID, Genre_type) values ('1', 'Action');
+insert into Genre (ID, Genre_type) values ('2', 'Sci-fi');
+insert into Genre (ID, Genre_type) values ('3', 'Comedy');
+insert into Genre (ID, Genre_type) values ('4', 'Romantic');
+insert into Genre (ID, Genre_type) values ('5', 'Romance');
+insert into Genre (ID, Genre_type) values ('6', 'Thriller');
+insert into Genre (ID, Genre_type) values ('7', 'Drama');
+insert into Genre (ID, Genre_type) values ('8', 'Horror');
+insert into Genre (ID, Genre_type) values ('9', 'Animation');
+insert into Genre (ID, Genre_type) values ('10', 'Crime');
+insert into Genre (ID, Genre_type) values ('11', 'Fantasy');
+insert into Genre (ID, Genre_type) values ('12', 'Documentary');
+insert into Genre (ID, Genre_type) values ('13', 'Superhero');
