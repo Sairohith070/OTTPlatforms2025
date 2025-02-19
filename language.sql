@@ -1,0 +1,9 @@
+insert into language (ID, Language) values ('1', 'Telugu');
+insert into language (ID, Language) values ('2', 'Hindi');
+insert into language (ID, Language) values ('3', 'English');
+insert into language (ID, Language) values ('4', 'Spanish');
+insert into language (ID, Language) values ('5', 'French');
+insert into language (ID, Language) values ('6', 'Japanese');
+insert into language (ID, Language) values ('7', 'Korean');
+insert into language (ID, Language) values ('8', 'Italian');
+insert into language (ID, Language) values ('9', 'Tamil');
